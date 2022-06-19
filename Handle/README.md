@@ -1,4 +1,5 @@
-Handle is the Package Manager for Baton
+<h1>Handlebar</h1>
+Handlebar (Handle for short) is the Package Manager for Baton
 
 It uses the PyPI API to download files (Specifically, A Package's Source).
 It relies on "winhttpjs.bat" to make HTTP Requests.
