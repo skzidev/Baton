@@ -9,8 +9,8 @@ What's the point?
 
 - It's Open Source and Written in Batch
 - It's Simple to use
-- You don't have to install anything
 - It's Extensible
+- It's Light-Weight
 
 <h2 align="center">Notice</h2>
 Baton isn't Complete, and will most likely lack some functionality of CPython.

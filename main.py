@@ -1,1 +1,1 @@
-input("HelloWorld!")
+input("$")
