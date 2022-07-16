@@ -2,10 +2,9 @@
 for /F "delims=" %%a in ('date /t') do set date=%%a
 echo Baton 1.2 [%date:~0,-1%]
 echo Type "help" for help.
-:while
-(
-   set /p comand=">>> "
+for /L %%n IN () do (
+	set /p comand=">>> "
 	cd %~dp0
-	parse.bat %comand%
-   call :while
+	parse %comand%
+	@echo off
 )
