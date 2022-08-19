@@ -13,7 +13,8 @@ What's the point?
 - It's Light-Weight
 
 <h2 align="center">Notice</h2>
-Baton isn't Complete, and will most likely lack some functionality of CPython.
+
+Baton isn't Complete, It is still **Extremely Unifinished** and will most likely lack some functionality of CPython.
 
 <h3 align="center">Setup</h3>
 
